@@ -1,0 +1,25 @@
+/*body{
+    width: 100px;
+    height: 700px;
+    background-image: url('fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}*/
+
+body{
+    
+    background-image: url('../img/casa2.jpeg');
+    /*background-color: #D2CFF0;*/
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: contain;
+    background-position: top center;
+    
+         
+   
+}
+
+#prueba{
+    margin-top: 100px;
+}
